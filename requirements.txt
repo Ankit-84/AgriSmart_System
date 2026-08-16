@@ -6,3 +6,4 @@ plotly
 deep-translator
 gTTS
 duckduckgo-search
+python-dotenv
