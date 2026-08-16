@@ -31,6 +31,8 @@ Create a `.env` file in the root directory and securely add your API keys:
 > OPENAI_API_KEY="your_openai_key_here"
 > WEATHER_API_KEY="your_openweathermap_key_here"
 > AGRO_API_KEY="your_agromonitoring_key_here"
+> PLANT_ID_API_KEY="your_plant_id_api_key"
+> DATAGOV_API_KEY="your_datagov_api_keye"
 
 **3. Install dependencies**
 > pip install -r requirements.txt
