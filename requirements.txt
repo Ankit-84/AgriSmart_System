@@ -1,29 +1,8 @@
-# Web Application Framework
-streamlit==1.36.0
-
-# Deep Learning & Vision (Plant Disease)
-torch==2.3.1
-torchvision==0.18.1
-Pillow==10.4.0
-
-# Tabular Machine Learning (Crop Prediction)
-scikit-learn==1.5.1
-joblib==1.4.2
-numpy==2.0.0
-pandas==2.2.2
-
-# API Integrations & Utilities
-openai==1.35.13
-requests==2.32.3
-python-dotenv==1.0.1
-
-gTTs
+streamlit
+openai
+requests
+numpy
 plotly
-pydeck
-
-chromadb 
-google-generativeai 
-PyPDF2
-ddgs
 deep-translator
-
+gTTS
+duckduckgo-search
