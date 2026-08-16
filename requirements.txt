@@ -1,9 +1,29 @@
+# Web Application Framework
 streamlit
+
+# Deep Learning & Vision (Plant Disease)
+torch
+torchvision
+Pillow
+
+# Tabular Machine Learning (Crop Prediction)
+scikit-learn
+joblib
+numpy
+pandas
+
+# API Integrations & Utilities
 openai
 requests
-numpy
-plotly
-deep-translator
-gTTS
-duckduckgo-search
 python-dotenv
+
+gTTs
+plotly
+pydeck
+
+chromadb 
+google-generativeai 
+PyPDF2
+ddgs
+deep-translator
+
